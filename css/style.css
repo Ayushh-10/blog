@@ -1,0 +1,23 @@
+.carousel-inner img{
+    height: 500px;
+    opacity: 1;
+}
+
+
+
+.img-fluid{
+    height: 300px;
+    width: 400px;
+}
+
+.form{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 73px;
+    margin-bottom: 174px;
+}
+
+.submit{
+    box-shadow: 0px 7px 0px #ffffff38;
+}
